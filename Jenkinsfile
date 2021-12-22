@@ -1,2 +1,3 @@
 @Library("my-first-static-web-app@groovy") _
-sam
+sam.info 'SAM Hello'
+sam.warning 'Not working'
