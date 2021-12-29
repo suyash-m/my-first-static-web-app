@@ -1,3 +1,10 @@
-@Library("my-first-static-web-app@groovy") _
-sam.info 'SAM Hello'
-sam.warning 'Not working'
+pipeline{
+ agent any
+    stages{
+	  stage('Build') {
+	    steps {
+		 echo "Hello"
+		 }
+		 }
+		 }
+		 }
