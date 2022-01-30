@@ -1,7 +1,2 @@
 testing
 hello
-hello
-hello
-sam
-ok
-ok
